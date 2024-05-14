@@ -1,4 +1,4 @@
-# router-wifi-simulation
+# Router-wifi-simulation
 
 team member: @[malakg1](https://github.com/malakg1)
 
